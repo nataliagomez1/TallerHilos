@@ -8,7 +8,7 @@ import java.util.TimerTask;
 public class RodilloThread extends Thread{
     private boolean activo = false;
     private JLabel rodilloLabel;
-    private String[] imagenes = {"Imagenes/img1.jpg", "Imagenes/img2.jpg", "Imagenes/img3.jpg","Imagenes/imgBonus.jpg"};
+    private String[] imagenes = {"Imagenes/img1.jpg", "Imagenes/img2.jpg", "Imagenes/img3.jpg","Imagenes/imgBonus.jpg","Imagenes/img4.jpg","Imagenes/img5.jpg"};
     private Timer temporizador;
     private long startTime;
 
