@@ -1,0 +1,8 @@
+Políticas de ganancia:
+
+* Si coinciden las tres figuras, se gana lo apostado multiplicado por 6.
+* Si coinciden dos figuras, se gana lo apostado multiplicado por 3.
+* La imagen circular con la leyenda "Good job" es un bonus.
+* Si coinciden tres bonus, se gana lo apostado multiplicado por 8.
+* Si coinciden dos bonus, se gana lo apostado multiplicado por 4.
+* Si no hay coincidencias, no se gana nada.

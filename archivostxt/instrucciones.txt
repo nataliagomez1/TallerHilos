@@ -1,0 +1,13 @@
+Para jugar, primero se deposita en el boton hacer deposito, en la parte superior hay una barra que muestra cuánto hay
+
+Al comienzo, lo minimo que se puede depositar es 1 y lo maximo es 100, pero despues su deposito puede aumentar por sus Ganancias
+
+Una vez que hayas depositado, puedes ingresar tu apuesta en el campo 'Apuesta' y en seguida registra tu apuesta para poder iniciar a jugar, haz clic en el botón 'Apostar'.
+
+Para iniciar el juego, haz clic en el botón 'Iniciar'.
+
+Para detener las figuras individualmente, haz clic en los botones 'Detener1', 'Detener2' o 'Detener3'.
+
+Para detener todas las figuras al mismo tiempo, haz clic en el botón 'Detener'.
+
+Para ver si ganó, tiene que hacer clic en el boton "Ganancia"
